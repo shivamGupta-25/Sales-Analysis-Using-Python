@@ -14,6 +14,8 @@ This GitHub repository contains the source code and resources for the Sales Anal
 ### Project Overview
 This data analysis project aims to provide insights into the sales performance of an electronics store over the past months. Python's Pandas and Matplotlib libraries are utilized to analyze and answer business questions based on 12 months of sales data. The dataset contains detailed information about hundreds of thousands of electronics store purchases, including month, product type, cost, purchase address, etc.
 
+![Dashboard](bar_scaler_graph.png)
+
 ### Data Source
 Sales Data: The primary dataset used for this analysis is the "Merge_data.csv" file, which contains comprehensive information about each sale made by the company over several months.
 
